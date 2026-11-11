@@ -1,7 +1,8 @@
 {
-  "branch": "JV-049",
+  "branch": "JV_V17_MAVEN_TP6152_SLIM",
   "combo": "MVN-THIN-M",
-  "repository": "java-j17-049-053",
+  "repository": "java-corpus-tp6152-slim",
+  "purpose": "Java-only whitebox slice for TP-6152 and derivation sheet metrics — no per-tool synthetic JS/Python trees",
   "language": "java",
   "javaVersion": "17",
   "hostJdk": "17",
